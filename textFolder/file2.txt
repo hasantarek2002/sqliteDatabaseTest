@@ -1,0 +1,5 @@
+hasan,tarek,a@gmail.com,a@gmail.com,Password123,4/March/1999,18/1/7,1
+jamil,hossain,b@gmail.com,b@gmail.com,123456789,3/March/1999,18/1/8,0
+rashik,hasan,c@gmail.com,c@gmail.com,Password12,4/April/1999,18/0/7,0
+ibrahim,khalil,d@gmail.com,d@gmail.com,Password1234,4/April/1998,19/0/7,1
+touhidul,tuhin,e@gmail.com,e@gmail.com,Password12,4/April/1999,18/0/8,0
